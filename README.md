@@ -247,4 +247,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For support or contributions, please open an issue or submit a pull request.
 
 ---
-
+Built with ❤️ for better healthcare management
